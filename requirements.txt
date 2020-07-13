@@ -1,0 +1,5 @@
+flask
+imageio==2.9.0
+Flask-Cors==3.0.8
+gunicorn
+requests
